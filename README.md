@@ -1,4 +1,9 @@
 <h1 align="center">Hi there, I'm Sahil 👋</h1>
+<p align="center">
+  <a href="https://github.com/sahilpawar">
+    <img src="https://komarev.com/ghpvc/?username=sahilpawar-dev&style=flat-square&color=blue" alt="Visitor Badge">
+  </a>
+</p>
 <h3 align="center">Full Stack Developer | Python | Django | React.js | Postgres</h3>
 
 ---
@@ -28,7 +33,7 @@
 ### 📈 GitHub Stats
 
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilpawar-dev&show_icons=true&theme=tokyonight)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sahilpawar-dev)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilpawar-dev&layout=compact&theme=tokyonight)
 
 ---
