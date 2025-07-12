@@ -42,4 +42,4 @@
 
 - 🌐 [Portfolio Website](https://sahilpawar.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sahilpawar-developer/)
-- ✍️ [Dev.to](https://dev.to/your-profile) *(optional)*
+- ✍️ [Dev.to](https://dev.to/sahilpawar-dev) *(optional)*
