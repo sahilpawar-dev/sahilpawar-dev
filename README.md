@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on building scalable full-stack web applications
-- 🌱 Learning **Next.js** and diving deeper into **system design**
+- 🌱 Learning **Rust** and diving deeper into **system design**
 - 💬 Ask me about **Python**, **Django**, **React**, or **PostgreSQL**
 - 🛠️ Exploring AI integration into web apps
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahilpawar-developer) | [Email](mailto:sahilpawar.work@email.com)
