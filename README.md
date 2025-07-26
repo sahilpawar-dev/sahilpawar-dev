@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Sahil 👋</h1>
 <p align="center">
-  <a href="https://github.com/sahilpawar">
+  <a href="https://github.com/sahilpawar.dev">
     <img src="https://komarev.com/ghpvc/?username=sahilpawar-dev&style=flat-square&color=blue" alt="Visitor Badge">
   </a>
 </p>
